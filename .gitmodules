@@ -1,0 +1,9 @@
+[submodule "todo-client"]
+	path = todo-client
+	url = https://github.com/Milldrew/todo-client.git
+[submodule "todo-api"]
+	path = todo-api
+	url = https://github.com/Milldrew/todo-api.git
+[submodule "todo-gateway"]
+	path = todo-gateway
+	url = https://github.com/Milldrew/todo-gateway.git
