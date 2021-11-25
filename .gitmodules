@@ -10,3 +10,6 @@
 [submodule "todo-express"]
 	path = todo-express
 	url = http://github.com/Milldrew/todo-express.git
+[submodule "todo-user-api"]
+	path = todo-user-api
+	url = https://github.com/Milldrew/todo-user-api.git
