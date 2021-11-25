@@ -7,3 +7,6 @@
 [submodule "todo-gateway"]
 	path = todo-gateway
 	url = https://github.com/Milldrew/todo-gateway.git
+[submodule "todo-express"]
+	path = todo-express
+	url = http://github.com/Milldrew/todo-express.git
